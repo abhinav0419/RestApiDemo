@@ -9,4 +9,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @ComponentScan
 public class Application {
 
+	
+	//Application where the component scan will go in spring.
 }
